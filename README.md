@@ -5,7 +5,7 @@
 -   Performance UX
 
 *With this article, we start exploring various industries and study the
-**current state of front-end, UX and performance** of relatively complex
+current state of front-end, UX and performance of relatively complex
 websites. First up are airline websites. Some sections of the article
 were written by the editorial team. We’d love to hear your flights
 booking experience in the comments to this article! — Ed.*
